@@ -1,23 +1,44 @@
 # Hi, I'm Riya Jain 👋
 
-### PGDM Marketing Student | Digital Marketing | Brand & Growth Strategy | Customer Insights & CRM | Business Development
+### PGDM Marketing | Growth Strategy | Business Development | Customer Insights & Marketing Analytics
 
-I'm a PGDM Marketing student at the **Fortune Institute of International Business (FIIB), New Delhi** with a strong interest in understanding customers, building brands, and turning business problems into practical marketing and growth strategies.
+I'm pursuing a **PGDM in Marketing at Fortune Institute of International Business (FIIB), New Delhi**. I am interested in understanding customer behaviour, identifying market opportunities, and developing strategies that support brand growth and business performance.
 
-My work combines **marketing thinking, customer insights, business development, CRM, sales, and product strategy** through hands-on academic and applied projects.
+During my internship at **Aditya Birla Capital**, I worked on marketing analysis, customer segmentation, and Power BI dashboard development. My academic projects have further helped me explore FMCG market opportunities, sales funnel strategy, customer acquisition, CRM, and retail channel dynamics.
+
+I aim to connect **customer insights, data-driven marketing, and commercial strategy** to solve business problems and create meaningful customer experiences.
 
 ---
 
 ## 🎯 What I Work On
 
-- Digital Marketing & Customer Acquisition
-- Brand & Growth Strategy
-- Customer Analytics & CRM
-- Business Development & Sales
-- Product & Portfolio Strategy
-- Consumer Behaviour & Segmentation
-- Sales & Distribution
+- 📈 **Sales & Business Development** — Lead generation, sales strategy, and customer acquisition
+- 🚀 **Growth Marketing** — Identifying opportunities to attract and retain customers
+- 🛍️ **FMCG & Retail Strategy** — Market opportunities, retail channels, and distribution
+- 🎯 **Brand & Digital Marketing** — Brand positioning, campaign planning, and consumer engagement
+- 🤝 **CRM & Customer Retention** — Customer segmentation, relationship management, and repeat purchases
+- 📊 **Marketing Analytics** — Customer insights, performance analysis, and data-driven decisions
+- 🔍 **Market Research** — Consumer behaviour, competitor analysis, and market opportunities
+---
 
+## 💼 Professional Experience
+
+### Marketing Intern — Aditya Birla Capital Limited
+**April 2026 – June 2026**
+
+- Benchmarked 1,500+ digital marketing assets across seven insurance brands.
+- Analysed customer segments to support marketing decisions.
+- Developed an interactive Power BI dashboard for marketing analysis.
+- Developed an AI-assisted customer engagement framework.
+
+**Key Skills:** Market Research | Customer Segmentation | Power BI | Marketing Analytics | Customer Engagement
+
+### Teaching & Content Writing Intern — Pehchaan: The Street School
+**January 2026**
+
+- Coordinated weekly learning sessions for 25+ students.
+- Published 8+ social-impact articles.
+- Developed communication, coordination, and content-writing skills.
 ---
 
 ## 🚀 Featured Projects
@@ -75,21 +96,55 @@ A field-based comparison of traditional and modern trade covering retailer auton
 [View Project →](https://github.com/riyajain123-05/retailer-autonomy-channel-dynamics)
 
 ---
+---
 
-## 🧠 Skills & Interests
+## 🛠️ Skills & Tools
 
-**Marketing:**  
-Digital Marketing • Brand Strategy • Growth Marketing • Consumer Insights • Content Marketing
+**Marketing & Brand Strategy**
+- Brand Management
+- Digital Marketing
+- Consumer Behaviour
+- Market Research
+- Campaign Planning
 
-**Customer & Commercial:**  
-CRM • Customer Segmentation • Retention • Business Development • Sales Strategy • Lead Generation
+**Sales & Business Development**
+- Lead Generation Strategy
+- Sales Funnel Planning
+- Customer Acquisition
+- Business Development
+- CRM & Customer Retention
+- Sales & Distribution
 
-**Strategy:**  
-Product Strategy • Product-Market Fit • Competitive Analysis • Channel Strategy
+**Analytics**
+- Customer Segmentation
+- Microsoft Excel
+- Power BI
+- Data Analysis
+- Dashboard Development
 
-**Analytics:**  
-RFM Analysis • Data Visualization • Python • Business Analytics
+**Tools**
+- Microsoft Excel
+- Power BI
+- Canva
+- Microsoft PowerPoint
+- Python
+---
 
+## 🏆 Leadership & Activities
+
+- **Team Leader — Unstop National Case Competition (C-Ace):** Led a team of 4–5 members through problem framing, research, analysis, and final presentation.
+- **Participant — Brand Storm, Wings and Roots 4.0:** Participated in a business competition organised by NMIMS Mumbai and Unstop.
+- **Participant — Reliance T.U.P. XI:** Participated in a competition associated with Reliance Industries Limited and Unstop.
+
+- ---
+
+## 💡 My Approach to Business
+
+1. **Understand** — Identify customer needs and business challenges.
+2. **Analyse** — Research the market, competitors, and available data.
+3. **Strategise** — Develop practical marketing and business solutions.
+4. **Execute** — Translate plans into actionable steps.
+5. **Measure** — Evaluate performance and identify opportunities to improve.
 ---
 
 ## 📚 Currently Building
@@ -110,12 +165,3 @@ I enjoy projects where creativity and data come together to solve real business 
 **GitHub:**  
 [github.com/riyajain123-05](https://github.com/riyajain123-05)
 
----
-
-### 💡 My Approach
-
-> Understand the customer.  
-> Find the opportunity.  
-> Build the strategy.  
-> Measure what matters.  
-> Improve continuously.
