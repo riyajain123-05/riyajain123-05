@@ -12,28 +12,29 @@ I aim to connect **customer insights, data-driven marketing, and commercial stra
 
 ## 🎯 What I Work On
 
-- 📈 **Sales & Business Development** — Lead generation, sales strategy, and customer acquisition
-- 🚀 **Growth Marketing** — Identifying opportunities to attract and retain customers
-- 🛍️ **FMCG & Retail Strategy** — Market opportunities, retail channels, and distribution
-- 🎯 **Brand & Digital Marketing** — Brand positioning, campaign planning, and consumer engagement
-- 🤝 **CRM & Customer Retention** — Customer segmentation, relationship management, and repeat purchases
-- 📊 **Marketing Analytics** — Customer insights, performance analysis, and data-driven decisions
-- 🔍 **Market Research** — Consumer behaviour, competitor analysis, and market opportunities
+- 📈 **Sales & Business Development** - Lead generation, sales strategy, and customer acquisition
+- 🚀 **Growth Marketing** - Identifying opportunities to attract and retain customers
+- 🛍️ **FMCG & Retail Strategy** - Market opportunities, retail channels, and distribution
+- 🎯 **Brand & Digital Marketing** - Brand positioning, campaign planning, and consumer engagement
+- 🤝 **CRM & Customer Retention** - Customer segmentation, relationship management, and repeat purchases
+- 📊 **Marketing Analytics** - Customer insights, performance analysis, and data-driven decisions
+- 🔍 **Market Research** - Consumer behaviour, competitor analysis, and market opportunities
 ---
 
 ## 💼 Professional Experience
 
-### Marketing Intern — Aditya Birla Capital Limited
+### Marketing Intern - Aditya Birla Capital Limited
 **April 2026 – June 2026**
 
 - Benchmarked 1,500+ digital marketing assets across seven insurance brands.
 - Analysed customer segments to support marketing decisions.
 - Developed an interactive Power BI dashboard for marketing analysis.
 - Developed an AI-assisted customer engagement framework.
+- https://chatgpt.com/share/6ad1ba80-8f3c-83e8-b502-2e600f4c1992
 
 **Key Skills:** Market Research | Customer Segmentation | Power BI | Marketing Analytics | Customer Engagement
 
-### Teaching & Content Writing Intern — Pehchaan: The Street School
+### Teaching & Content Writing Intern - Pehchaan: The Street School
 **January 2026**
 
 - Coordinated weekly learning sessions for 25+ students.
@@ -43,7 +44,7 @@ I aim to connect **customer insights, data-driven marketing, and commercial stra
 
 ## 🚀 Featured Projects
 
-### 📈 NutraCare — Digital Marketing Capstone
+### 📈 NutraCare - Digital Marketing Capstone
 Built an integrated digital marketing strategy for a personalized clinical nutrition and patient-care platform.
 
 **Focus:** Digital Strategy • Customer Journey • Funnel • Paid & Organic Media • CRM • Automation
@@ -52,7 +53,7 @@ Built an integrated digital marketing strategy for a personalized clinical nutri
 
 ---
 
-### ☕ mCaffeine — Brand Strategy
+### ☕ mCaffeine - Brand Strategy
 Developed an independent brand strategy focused on social media engagement, consumer journey, and a repeat-purchase social-commerce concept.
 
 **Focus:** Brand Strategy • Content Marketing • Consumer Engagement • Social Commerce
@@ -61,7 +62,7 @@ Developed an independent brand strategy focused on social media engagement, cons
 
 ---
 
-### 🎯 CareerBoost AI — Business Development & Selling
+### 🎯 CareerBoost AI - Business Development & Selling
 Created a full-funnel business development and selling strategy for an AI-powered placement preparation platform.
 
 **Focus:** Target Market • USP • Lead Generation • Sales Funnel • Outreach • Promotion • Retention
@@ -70,7 +71,7 @@ Created a full-funnel business development and selling strategy for an AI-powere
 
 ---
 
-### 📊 Momo Hut — Customer Analytics & CRM
+### 📊 Momo Hut - Customer Analytics & CRM
 Analysed customer behaviour using RFM segmentation and behavioural at-risk identification to build a practical customer retention playbook.
 
 **Focus:** Customer Analytics • RFM • Segmentation • CRM • Retention Strategy
@@ -79,7 +80,7 @@ Analysed customer behaviour using RFM segmentation and behavioural at-risk ident
 
 ---
 
-### 🧴 StarX — Product Management
+### 🧴 StarX - Product Management
 Interview-based analysis of StarX covering market gaps, customer validation, new product development, Product-Market Fit, innovation and product portfolio decisions.
 
 **Focus:** Product Management • Customer Validation • Product-Market Fit • Innovation
